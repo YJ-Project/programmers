@@ -2,7 +2,7 @@ package programmers;
 
 import java.util.HashMap;
 
-public class runner {
+public class Runner {
 	    public String solution(String[] participant, String[] completion) {
 	        String answer = "";
 			HashMap<String,Integer> map = new HashMap<String,Integer>();
