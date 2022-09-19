@@ -11,6 +11,7 @@ public class K {
     - 소요 시간: 30분
     */
     public static  int[] solution(int[] array, int[][] commands) {
+        //123
         int[] answer = new int[commands.length];
 
         for(int i=0; i<commands.length; i++){ //O(n)
